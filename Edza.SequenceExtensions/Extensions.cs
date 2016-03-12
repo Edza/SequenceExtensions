@@ -41,7 +41,7 @@ namespace Edza.SequenceExtensions
             while (rator1.MoveNext() && rator2.MoveNext())
             {
                 yield return action(rator1.Current, rator2.Current);
-            }    
+            }
         }
     }
 }

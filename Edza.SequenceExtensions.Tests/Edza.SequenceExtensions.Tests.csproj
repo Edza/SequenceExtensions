@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Edza.SequenceExtensions\Edza.SequenceExtensions.csproj">
-      <Project>{2ad032b6-812c-4b03-9bdc-c4dd71da5a7e}</Project>
+      <Project>{6fb50ed3-f0ce-4c1b-b34f-e4f454de4bd0}</Project>
       <Name>Edza.SequenceExtensions</Name>
     </ProjectReference>
   </ItemGroup>
